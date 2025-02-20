@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookBorrowingApp", "BookBorrowingApp\BookBorrowingApp.csproj", "{7A0E404B-B2B4-48F9-813F-6D20DA36B75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookBorrowingApp.Tests", "BookBorrowingApp.Tests\BookBorrowingApp.Tests.csproj", "{9D07A210-0F6A-4716-B877-9BE6C8BCFD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0E404B-B2B4-48F9-813F-6D20DA36B75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0E404B-B2B4-48F9-813F-6D20DA36B75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0E404B-B2B4-48F9-813F-6D20DA36B75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0E404B-B2B4-48F9-813F-6D20DA36B75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D07A210-0F6A-4716-B877-9BE6C8BCFD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D07A210-0F6A-4716-B877-9BE6C8BCFD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D07A210-0F6A-4716-B877-9BE6C8BCFD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D07A210-0F6A-4716-B877-9BE6C8BCFD95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
